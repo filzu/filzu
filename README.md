@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Привет, меня зовут Филипп <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<h1 align="center">Привет, меня зовут Филипп 
